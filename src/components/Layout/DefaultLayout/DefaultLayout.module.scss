@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content {
+    width: calc(100vw - var(--default-width-sidebar));
+    padding: 16px 240px 16px 64px;
+}

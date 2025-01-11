@@ -3,9 +3,12 @@
 
 :root {
     --primary-color: #fd2c55;
+    --default-width-sidebar: 232px;
 }
 
 * {
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
 
