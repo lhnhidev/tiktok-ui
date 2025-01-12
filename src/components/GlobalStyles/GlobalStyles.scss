@@ -21,3 +21,13 @@ body {
     line-height: 22px;
     font-size: 1.6rem;
 }
+
+input,
+button {
+    border: none;
+    outline: none;
+}
+
+a[href] {
+    text-decoration: none;
+}
